@@ -84,17 +84,6 @@ Summarized the major findings and provided strategic recommendations:
 
 ---
 
-##  Project Structure
-
-Retail_Sales_EDA/
-│
-├── retail_sales_dataset.csv # Dataset used for EDA
-├── Retail_Sales_EDA.ipynb # Google Colab notebook with full analysis
-└── README.md # Project summary and documentation
-
-
----
-
 ##  Author
 
 **Priyal Seth**  
